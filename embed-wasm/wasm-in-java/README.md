@@ -1,5 +1,8 @@
 # [WebAssembly](https://webassembly.org/) in Java
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eleftherias/wasm-examples)
+
+
 This Java example calculates the 8th Fibonacci number using the WebAssembly binary `fibonacci.wasm`.
 This is made possible by leveraging [wasmtime-java](https://github.com/kawamuray/wasmtime-java).
 
