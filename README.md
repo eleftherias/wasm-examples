@@ -1,5 +1,7 @@
 # Wasm Examples
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eleftherias/wasm-examples)
+
 A collection of [WebAssembly](https://webassembly.org/) examples.
 
 ## [Generating Wasm](./to-wasm)
